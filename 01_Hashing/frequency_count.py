@@ -42,4 +42,5 @@ class Solution:
 Note:
 This problem can also be solved using collections.Counter for more concise code.
 A manual hash map is used here to clearly demonstrate the frequency-counting pattern.
+This is the optimized approach.
 """
