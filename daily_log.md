@@ -14,4 +14,10 @@ Problems:
 - Sort Array by Increasing Frequency
 - Power of Three
 
+## Day 3
+- Hashing: 2
+
+Problems:
+- Contains Duplicate
+- Valid Anagram
 
