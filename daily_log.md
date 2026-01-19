@@ -21,3 +21,8 @@ Problems:
 - Contains Duplicate
 - Valid Anagram
 
+## Day 4
+- Recursion: 1
+
+Problems:
+- Power of Two
