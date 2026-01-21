@@ -26,3 +26,9 @@ Problems:
 
 Problems:
 - Power of Two
+
+## Day 5
+- Hashing: 1
+
+Problems:
+- Two Sum
